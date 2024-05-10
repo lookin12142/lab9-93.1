@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A0D1692D2BEEAD63007488FC /* ViewControllerCategorias.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0D1692C2BEEAD63007488FC /* ViewControllerCategorias.swift */; };
+		A0D169312BEEB625007488FC /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0D169302BEEB625007488FC /* ViewController2.swift */; };
 		A0DC3A512BE9890600A49A3D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0DC3A502BE9890600A49A3D /* AppDelegate.swift */; };
 		A0DC3A532BE9890600A49A3D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0DC3A522BE9890600A49A3D /* SceneDelegate.swift */; };
 		A0DC3A552BE9890600A49A3D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0DC3A542BE9890600A49A3D /* ViewController.swift */; };
@@ -14,9 +16,12 @@
 		A0DC3A5B2BE9890600A49A3D /* lab9.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A0DC3A592BE9890600A49A3D /* lab9.xcdatamodeld */; };
 		A0DC3A5D2BE9890800A49A3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0DC3A5C2BE9890800A49A3D /* Assets.xcassets */; };
 		A0DC3A602BE9890800A49A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A0DC3A5E2BE9890800A49A3D /* LaunchScreen.storyboard */; };
+		A0DC3A682BE98E5A00A49A3D /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0DC3A672BE98E5A00A49A3D /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A0D1692C2BEEAD63007488FC /* ViewControllerCategorias.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerCategorias.swift; sourceTree = "<group>"; };
+		A0D169302BEEB625007488FC /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		A0DC3A4D2BE9890600A49A3D /* lab9.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lab9.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0DC3A502BE9890600A49A3D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A0DC3A522BE9890600A49A3D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -26,6 +31,7 @@
 		A0DC3A5C2BE9890800A49A3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0DC3A5F2BE9890800A49A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A0DC3A612BE9890800A49A3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A0DC3A672BE98E5A00A49A3D /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +68,9 @@
 				A0DC3A522BE9890600A49A3D /* SceneDelegate.swift */,
 				A0DC3A542BE9890600A49A3D /* ViewController.swift */,
 				A0DC3A562BE9890600A49A3D /* Main.storyboard */,
+				A0D169302BEEB625007488FC /* ViewController2.swift */,
+				A0D1692C2BEEAD63007488FC /* ViewControllerCategorias.swift */,
+				A0DC3A672BE98E5A00A49A3D /* JuegosViewController.swift */,
 				A0DC3A5C2BE9890800A49A3D /* Assets.xcassets */,
 				A0DC3A5E2BE9890800A49A3D /* LaunchScreen.storyboard */,
 				A0DC3A612BE9890800A49A3D /* Info.plist */,
@@ -141,6 +150,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0D1692D2BEEAD63007488FC /* ViewControllerCategorias.swift in Sources */,
+				A0D169312BEEB625007488FC /* ViewController2.swift in Sources */,
+				A0DC3A682BE98E5A00A49A3D /* JuegosViewController.swift in Sources */,
 				A0DC3A552BE9890600A49A3D /* ViewController.swift in Sources */,
 				A0DC3A5B2BE9890600A49A3D /* lab9.xcdatamodeld in Sources */,
 				A0DC3A512BE9890600A49A3D /* AppDelegate.swift in Sources */,
